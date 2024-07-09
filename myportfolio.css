@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+}
+header{
+    background-color: black;
+    padding: 10px;
+}
+header h2{
+    color: aliceblue;
+}
+nav ul li{
+    display: inline;
+    padding: 10px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: burlywood;
+}
+#Home img{
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+}
+#Home p{
+    word-spacing: 10px;
+}
+#PortFolio{
+    background-color: blanchedalmond;
+    padding: 10px;
+}
+li{
+    display: inline;
+    padding: 10px;
+}
+footer{
+    background-color: black;
+    padding: 20px;
+}
+footer p{
+    color: aliceblue;
+}
+#Bio pre{
+    line-height:20px;
+    word-spacing: 5px;
+}
+dt{
+    text-decoration-line: underline;
+}
